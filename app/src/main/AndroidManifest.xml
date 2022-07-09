@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.collegeconnect">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.COLLEGECONNECT">
+        <activity android:name=".About_Activity"></activity>
+        <activity android:name=".FacultyGroupChatActivity" />
+        <activity android:name=".AdminFinilizeGroupActivity" />
+        <activity android:name=".FacultyChatFacultyActivity" />
+        <activity android:name=".AdminGroupCreateActivity" />
+        <activity android:name=".AdminFacultyChat" />
+        <activity android:name=".AdminStudentChat" />
+        <activity android:name=".StudentNewMessageActivity" />
+        <activity android:name=".AdminAddAdminActivity" />
+        <activity android:name=".StudentChangePassword" />
+        <activity android:name=".StudentProfileActivity" />
+        <activity android:name=".FacChangePasswordActivity" />
+        <activity android:name=".FacultyProfileActivity" />
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".NewMessageActivity" />
+        <activity android:name=".FacultyHomeActivity" />
+        <activity android:name=".AddFaculty">
+        </activity>
+        <activity android:name=".AdminReviewActivity">
+        </activity>
+        <activity android:name=".StudentRequest">
+
+        </activity>
+        <activity android:name=".Login" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SelectUserTypeActivity" />
+        </activity>
+        <activity android:name=".AdminHomeActivity" />
+        <activity android:name=".StudentHomeActivity" />
+        <activity android:name=".RegistrationActivity" />
+        <activity android:name=".SelectUserTypeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

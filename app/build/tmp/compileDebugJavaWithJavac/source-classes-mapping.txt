@@ -1,0 +1,78 @@
+com/example/collegeconnect/databinding/ActivityFacultyChatBinding.java
+ com.example.collegeconnect.databinding.ActivityFacultyChatBinding
+com/example/collegeconnect/BuildConfig.java
+ com.example.collegeconnect.BuildConfig
+com/example/collegeconnect/databinding/ActivityStudentHomeBinding.java
+ com.example.collegeconnect.databinding.ActivityStudentHomeBinding
+com/example/collegeconnect/databinding/ActivityAdminGroupCreateBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminGroupCreateBinding
+com/example/collegeconnect/databinding/ActivityAdminStudentRequestBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminStudentRequestBinding
+com/example/collegeconnect/databinding/ActivityFacultyChatFacultyBinding.java
+ com.example.collegeconnect.databinding.ActivityFacultyChatFacultyBinding
+com/example/collegeconnect/databinding/ActivityStudentProfileBinding.java
+ com.example.collegeconnect.databinding.ActivityStudentProfileBinding
+com/example/collegeconnect/databinding/ActivityAdminAddFacultyBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminAddFacultyBinding
+com/example/collegeconnect/databinding/SelectedPeopleBinding.java
+ com.example.collegeconnect.databinding.SelectedPeopleBinding
+com/example/collegeconnect/databinding/ImageToRowBinding.java
+ com.example.collegeconnect.databinding.ImageToRowBinding
+com/example/collegeconnect/databinding/ActivityFacultyProfileBinding.java
+ com.example.collegeconnect.databinding.ActivityFacultyProfileBinding
+com/example/collegeconnect/databinding/ActivityAdminFacultyChatBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminFacultyChatBinding
+com/example/collegeconnect/databinding/ActivityAdminStudentChatBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminStudentChatBinding
+com/example/collegeconnect/databinding/ActivityStudentChangePasswordBinding.java
+ com.example.collegeconnect.databinding.ActivityStudentChangePasswordBinding
+com/example/collegeconnect/databinding/ChatFromRowBinding.java
+ com.example.collegeconnect.databinding.ChatFromRowBinding
+com/example/collegeconnect/databinding/ActivityFacultyHomeBinding.java
+ com.example.collegeconnect.databinding.ActivityFacultyHomeBinding
+com/example/collegeconnect/databinding/ActivityAdminHomeBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminHomeBinding
+com/example/collegeconnect/databinding/UserRowNewMsgBinding.java
+ com.example.collegeconnect.databinding.UserRowNewMsgBinding
+com/example/collegeconnect/databinding/ActivityFacultyNewMessageBinding.java
+ com.example.collegeconnect.databinding.ActivityFacultyNewMessageBinding
+com/example/collegeconnect/databinding/ChatToRowBinding.java
+ com.example.collegeconnect.databinding.ChatToRowBinding
+com/example/collegeconnect/databinding/ActivitySelectUserTypeBinding.java
+ com.example.collegeconnect.databinding.ActivitySelectUserTypeBinding
+com/example/collegeconnect/databinding/GroupCreateRowsBinding.java
+ com.example.collegeconnect.databinding.GroupCreateRowsBinding
+com/example/collegeconnect/databinding/ActivityMainBinding.java
+ com.example.collegeconnect.databinding.ActivityMainBinding
+com/example/collegeconnect/databinding/ImageFromRowBinding.java
+ com.example.collegeconnect.databinding.ImageFromRowBinding
+com/example/collegeconnect/databinding/ActivityLoginBinding.java
+ com.example.collegeconnect.databinding.ActivityLoginBinding
+com/example/collegeconnect/databinding/NavHeader2Binding.java
+ com.example.collegeconnect.databinding.NavHeader2Binding
+com/example/collegeconnect/databinding/ActivityAboutBinding.java
+ com.example.collegeconnect.databinding.ActivityAboutBinding
+com/example/collegeconnect/databinding/PdfFromRowBinding.java
+ com.example.collegeconnect.databinding.PdfFromRowBinding
+com/example/collegeconnect/databinding/FacLatestMessageRowBinding.java
+ com.example.collegeconnect.databinding.FacLatestMessageRowBinding
+com/example/collegeconnect/databinding/NavHeaderBinding.java
+ com.example.collegeconnect.databinding.NavHeaderBinding
+com/example/collegeconnect/databinding/ListItemBinding.java
+ com.example.collegeconnect.databinding.ListItemBinding
+com/example/collegeconnect/databinding/ActivityFacultyGroupChatBinding.java
+ com.example.collegeconnect.databinding.ActivityFacultyGroupChatBinding
+com/example/collegeconnect/databinding/ActivityAdminReviewBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminReviewBinding
+com/example/collegeconnect/databinding/ActivityFacChangePasswordBinding.java
+ com.example.collegeconnect.databinding.ActivityFacChangePasswordBinding
+com/example/collegeconnect/databinding/ActivityAdminFinilizeGroupBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminFinilizeGroupBinding
+com/example/collegeconnect/databinding/ActivityAdminAddAdminBinding.java
+ com.example.collegeconnect.databinding.ActivityAdminAddAdminBinding
+com/example/collegeconnect/databinding/NavHeader3FacBinding.java
+ com.example.collegeconnect.databinding.NavHeader3FacBinding
+com/example/collegeconnect/databinding/ActivityRegistrationBinding.java
+ com.example.collegeconnect.databinding.ActivityRegistrationBinding
+com/example/collegeconnect/databinding/ActivityStudentNewMessageBinding.java
+ com.example.collegeconnect.databinding.ActivityStudentNewMessageBinding

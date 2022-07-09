@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_fachome.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\menu\\nav_fachome.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_home.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_faculty_home.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_from_row.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\chat_from_row.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_create_rows.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\group_create_rows.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_profile.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_faculty_profile.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_from_row.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\image_from_row.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chatfac.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_chatfac.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_new_message.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_student_new_message.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_to_row.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\image_to_row.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_table_chart_24.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_baseline_table_chart_24.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_new_message.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_faculty_new_message.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_faculty_chat.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_faculty_chat.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_studentadd.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_studentadd.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_fac_latest_message_row.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\fac_latest_message_row.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_student_request.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_student_request.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rcline_background.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\rcline_background.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_group_create.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_group_create.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header3_fac.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\nav_header3_fac.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_change_password.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_student_change_password.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_user_type.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_select_user_type.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_pdf_from_row.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\pdf_from_row.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_profile.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_student_profile.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_home.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_add_faculty.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_add_faculty.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_latest_msg_row.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\latest_msg_row.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_finilize_group.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_finilize_group.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_findstudent.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_findstudent.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_home.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_student_home.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uploadphoto.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\uploadphoto.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_chat_faculty.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_faculty_chat_faculty.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_menu2.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\menu\\nav_menu2.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\menu_chat_options.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\menu\\chat_options.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tablebg.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\tablebg.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_menu_fac.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\menu\\nav_menu_fac.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header2.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\nav_header2.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_row_new_msg.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\user_row_new_msg.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pdf.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_menu.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_about.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_about.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_textview_blackbg.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\rounded_textview_blackbg.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_selected_people.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\selected_people.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_group_chat.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_faculty_group_chat.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_find.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_find.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_student_review.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_student_review.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_time.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\background_time.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_to_row.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\chat_to_row.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_add_admin.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_add_admin.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_select_photo_button.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\rounded_select_photo_button.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_student_chat.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_student_chat.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fac_change_password.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_fac_change_password.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_chat.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_faculty_chat.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_review.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\layout\\activity_admin_review.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_textview.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\rounded_textview.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_group.xml"
+    },
+    {
+        "merged": "F:\\COLLEGECONNECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_admin.xml.flat",
+        "source": "F:\\COLLEGECONNECT\\app\\src\\main\\res\\drawable\\ic_add_admin.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">651885248788-5q4t6qrrkh514nm4gufbki6m186rip58.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">651885248788</string>
+    <string name="google_api_key" translatable="false">AIzaSyBiiLkre3UZHuc0Y0T7YB7rf5ulVXPdBkc</string>
+    <string name="google_app_id" translatable="false">1:651885248788:android:a9b279eaaf97eb45860201</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBiiLkre3UZHuc0Y0T7YB7rf5ulVXPdBkc</string>
+    <string name="google_storage_bucket" translatable="false">college-connect-362bf.appspot.com</string>
+    <string name="project_id" translatable="false">college-connect-362bf</string>
+</resources>

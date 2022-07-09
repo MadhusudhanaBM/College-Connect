@@ -1,0 +1,356 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.collegeconnect"
+4    android:versionCode="1"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+11-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:23:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\ae74fb6d898efcca9c2fdbd3e9320447\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\ae74fb6d898efcca9c2fdbd3e9320447\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+14-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+14-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+15
+16    <application
+16-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:5:5-51:19
+17        android:allowBackup="true"
+17-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:6:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.6.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\8a33cbeae2d1b8a3fab61b2c3c266e13\core-1.6.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@drawable/logo"
+20-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:7:9-38
+21        android:label="@string/app_name"
+21-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:8:9-41
+22        android:roundIcon="@drawable/logo"
+22-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:9:9-43
+23        android:supportsRtl="true"
+23-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:10:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.COLLEGECONNECT" >
+25-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:11:9-52
+26        <activity android:name="com.example.collegeconnect.About_Activity" />
+26-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:12:9-61
+26-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:12:19-49
+27        <activity android:name="com.example.collegeconnect.FacultyGroupChatActivity" />
+27-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:13:9-62
+27-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:13:19-59
+28        <activity android:name="com.example.collegeconnect.AdminFinilizeGroupActivity" />
+28-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:14:9-64
+28-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:14:19-61
+29        <activity android:name="com.example.collegeconnect.FacultyChatFacultyActivity" />
+29-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:15:9-64
+29-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:15:19-61
+30        <activity android:name="com.example.collegeconnect.AdminGroupCreateActivity" />
+30-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:16:9-62
+30-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:16:19-59
+31        <activity android:name="com.example.collegeconnect.AdminFacultyChat" />
+31-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:17:9-54
+31-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:17:19-51
+32        <activity android:name="com.example.collegeconnect.AdminStudentChat" />
+32-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:18:9-54
+32-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:18:19-51
+33        <activity android:name="com.example.collegeconnect.StudentNewMessageActivity" />
+33-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:19:9-63
+33-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:19:19-60
+34        <activity android:name="com.example.collegeconnect.AdminAddAdminActivity" />
+34-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:20:9-59
+34-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:20:19-56
+35        <activity android:name="com.example.collegeconnect.StudentChangePassword" />
+35-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:21:9-59
+35-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:21:19-56
+36        <activity android:name="com.example.collegeconnect.StudentProfileActivity" />
+36-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:22:9-60
+36-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:22:19-57
+37        <activity android:name="com.example.collegeconnect.FacChangePasswordActivity" />
+37-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:23:9-63
+37-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:23:19-60
+38        <activity android:name="com.example.collegeconnect.FacultyProfileActivity" />
+38-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:24:9-60
+38-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:24:19-57
+39        <activity android:name="com.example.collegeconnect.ChatActivity" />
+39-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:25:9-50
+39-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:25:19-47
+40        <activity android:name="com.example.collegeconnect.NewMessageActivity" />
+40-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:26:9-56
+40-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:26:19-53
+41        <activity android:name="com.example.collegeconnect.FacultyHomeActivity" />
+41-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:27:9-57
+41-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:27:19-54
+42        <activity android:name="com.example.collegeconnect.AddFaculty" >
+42-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:28:9-29:20
+42-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:28:19-45
+43        </activity>
+44        <activity android:name="com.example.collegeconnect.AdminReviewActivity" >
+44-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:30:9-31:20
+44-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:30:19-54
+45        </activity>
+46        <activity android:name="com.example.collegeconnect.StudentRequest" >
+46-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:32:9-34:20
+46-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:32:19-49
+47        </activity>
+48        <activity android:name="com.example.collegeconnect.Login" >
+48-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:35:9-39:20
+48-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:35:19-40
+49            <meta-data
+49-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:36:13-38:59
+50                android:name="android.support.PARENT_ACTIVITY"
+50-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:37:17-63
+51                android:value=".SelectUserTypeActivity" />
+51-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:38:17-56
+52        </activity>
+53        <activity android:name="com.example.collegeconnect.AdminHomeActivity" />
+53-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:40:9-55
+53-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:40:19-52
+54        <activity android:name="com.example.collegeconnect.StudentHomeActivity" />
+54-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:41:9-57
+54-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:41:19-54
+55        <activity android:name="com.example.collegeconnect.RegistrationActivity" />
+55-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:42:9-58
+55-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:42:19-55
+56        <activity android:name="com.example.collegeconnect.SelectUserTypeActivity" />
+56-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:43:9-60
+56-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:43:19-57
+57        <activity android:name="com.example.collegeconnect.MainActivity" >
+57-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:44:9-50:20
+57-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:44:19-47
+58            <intent-filter>
+58-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:45:13-49:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:46:17-69
+59-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:46:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:48:17-77
+61-->F:\COLLEGECONNECT\app\src\main\AndroidManifest.xml:48:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+65            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+65-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+66            android:excludeFromRecents="true"
+66-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+67            android:exported="true"
+67-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+68            android:launchMode="singleTask"
+68-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+69            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+69-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+70            <intent-filter>
+70-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+71                <action android:name="android.intent.action.VIEW" />
+71-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+71-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+72
+73                <category android:name="android.intent.category.DEFAULT" />
+73-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+73-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+74                <category android:name="android.intent.category.BROWSABLE" />
+74-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+74-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+75
+76                <data
+76-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+77                    android:host="firebase.auth"
+77-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+78                    android:path="/"
+78-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+79                    android:scheme="genericidp" />
+79-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+83            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+83-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+84            android:excludeFromRecents="true"
+84-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+85            android:exported="true"
+85-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+86            android:launchMode="singleTask"
+86-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+87            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+87-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+88            <intent-filter>
+88-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+89                <action android:name="android.intent.action.VIEW" />
+89-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+89-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+90
+91                <category android:name="android.intent.category.DEFAULT" />
+91-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+91-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+92                <category android:name="android.intent.category.BROWSABLE" />
+92-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+92-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+93
+94                <data
+94-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+95                    android:host="firebase.auth"
+95-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+96                    android:path="/"
+96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+97                    android:scheme="recaptcha" />
+97-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+98            </intent-filter>
+99        </activity>
+100
+101        <service
+101-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+102            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+102-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+103            android:enabled="true"
+103-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+104            android:exported="false" >
+104-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+105            <intent-filter>
+105-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+106                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+106-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+106-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+107
+108                <category android:name="android.intent.category.DEFAULT" />
+108-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+108-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+109            </intent-filter>
+110        </service>
+111        <service
+111-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+112            android:name="com.google.firebase.components.ComponentDiscoveryService"
+112-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+113            android:directBootAware="true"
+113-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\746ef353d5968e21eb20b792a320c694\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+114            android:exported="false" >
+114-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+115            <meta-data
+115-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+116                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+116-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\7f2dc1b381f59dfc0729c992a489f449\firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+118            <meta-data
+118-->[com.google.firebase:firebase-storage-ktx:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\211847e65df177de196b778cf2a67fa7\firebase-storage-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+119                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+119-->[com.google.firebase:firebase-storage-ktx:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\211847e65df177de196b778cf2a67fa7\firebase-storage-ktx-20.0.0\AndroidManifest.xml:16:17-122
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[com.google.firebase:firebase-storage-ktx:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\211847e65df177de196b778cf2a67fa7\firebase-storage-ktx-20.0.0\AndroidManifest.xml:17:17-82
+121            <meta-data
+121-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\bc89ed73eafed6bca7cc475415b1bfa4\firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
+122                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+122-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\bc89ed73eafed6bca7cc475415b1bfa4\firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
+123                android:value="com.google.firebase.components.ComponentRegistrar" />
+123-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\bc89ed73eafed6bca7cc475415b1bfa4\firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
+124            <meta-data
+124-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\4d42041c28c1a40e12dbf10fb320c3fb\firebase-firestore-23.0.1\AndroidManifest.xml:20:13-22:85
+125                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+125-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\4d42041c28c1a40e12dbf10fb320c3fb\firebase-firestore-23.0.1\AndroidManifest.xml:21:17-111
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\4d42041c28c1a40e12dbf10fb320c3fb\firebase-firestore-23.0.1\AndroidManifest.xml:22:17-82
+127            <meta-data
+127-->[com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\3b908d477ca291fb47d2253bd63d1495\firebase-analytics-ktx-19.0.0\AndroidManifest.xml:11:13-13:85
+128                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+128-->[com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\3b908d477ca291fb47d2253bd63d1495\firebase-analytics-ktx-19.0.0\AndroidManifest.xml:12:17-126
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-analytics-ktx:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\3b908d477ca291fb47d2253bd63d1495\firebase-analytics-ktx-19.0.0\AndroidManifest.xml:13:17-82
+130            <meta-data
+130-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\771a6b4cac87e18d95b41dc9fc844737\firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+131                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+131-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\771a6b4cac87e18d95b41dc9fc844737\firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\771a6b4cac87e18d95b41dc9fc844737\firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+133            <meta-data
+133-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\ae74fb6d898efcca9c2fdbd3e9320447\play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+134                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+134-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\ae74fb6d898efcca9c2fdbd3e9320447\play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\ae74fb6d898efcca9c2fdbd3e9320447\play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+136            <meta-data
+136-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\79d1aaca0f8641153135d2ed8b968ed5\firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+137                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+137-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\79d1aaca0f8641153135d2ed8b968ed5\firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\79d1aaca0f8641153135d2ed8b968ed5\firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+139        </service>
+140
+141        <activity
+141-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\57e4de3b9a2974885d94a22bcbf5138d\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+142            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+142-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\57e4de3b9a2974885d94a22bcbf5138d\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+143            android:exported="false"
+143-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\57e4de3b9a2974885d94a22bcbf5138d\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+144            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+144-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\57e4de3b9a2974885d94a22bcbf5138d\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+145
+146        <provider
+146-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\746ef353d5968e21eb20b792a320c694\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+147            android:name="com.google.firebase.provider.FirebaseInitProvider"
+147-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\746ef353d5968e21eb20b792a320c694\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+148            android:authorities="com.example.collegeconnect.firebaseinitprovider"
+148-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\746ef353d5968e21eb20b792a320c694\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+149            android:directBootAware="true"
+149-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\746ef353d5968e21eb20b792a320c694\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+150            android:exported="false"
+150-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\746ef353d5968e21eb20b792a320c694\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+151            android:initOrder="100" />
+151-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\746ef353d5968e21eb20b792a320c694\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+152
+153        <receiver
+153-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+154            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+154-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+155            android:enabled="true"
+155-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+156            android:exported="false" >
+156-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+157        </receiver>
+158
+159        <service
+159-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+160            android:name="com.google.android.gms.measurement.AppMeasurementService"
+160-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+161            android:enabled="true"
+161-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+162            android:exported="false" />
+162-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+163        <service
+163-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+164            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+164-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+165            android:enabled="true"
+165-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+166            android:exported="false"
+166-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+167            android:permission="android.permission.BIND_JOB_SERVICE" />
+167-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\49315000d32bdf4f3a4f287a08129a3b\play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+168
+169        <meta-data
+169-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\1916f10cf89bdac50087ea439672607e\play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+170            android:name="com.google.android.gms.version"
+170-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\1916f10cf89bdac50087ea439672607e\play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+171            android:value="@integer/google_play_services_version" />
+171-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\1916f10cf89bdac50087ea439672607e\play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+172
+173        <provider
+173-->[com.squareup.picasso:picasso:2.71828] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\bf38625412d61735ff823037b105fdd7\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+174            android:name="com.squareup.picasso.PicassoProvider"
+174-->[com.squareup.picasso:picasso:2.71828] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\bf38625412d61735ff823037b105fdd7\picasso-2.71828\AndroidManifest.xml:9:13-64
+175            android:authorities="com.example.collegeconnect.com.squareup.picasso"
+175-->[com.squareup.picasso:picasso:2.71828] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\bf38625412d61735ff823037b105fdd7\picasso-2.71828\AndroidManifest.xml:10:13-72
+176            android:exported="false" />
+176-->[com.squareup.picasso:picasso:2.71828] C:\Users\Navaneeth Kamath\.gradle\caches\transforms-2\files-2.1\bf38625412d61735ff823037b105fdd7\picasso-2.71828\AndroidManifest.xml:11:13-37
+177    </application>
+178
+179</manifest>

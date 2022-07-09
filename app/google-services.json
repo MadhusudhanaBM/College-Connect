@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651885248788",
+    "project_id": "college-connect-362bf",
+    "storage_bucket": "college-connect-362bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651885248788:android:a9b279eaaf97eb45860201",
+        "android_client_info": {
+          "package_name": "com.example.collegeconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651885248788-5q4t6qrrkh514nm4gufbki6m186rip58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiiLkre3UZHuc0Y0T7YB7rf5ulVXPdBkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651885248788-5q4t6qrrkh514nm4gufbki6m186rip58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
